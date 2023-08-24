@@ -6,7 +6,6 @@
     margin: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     background: linear-gradient(90deg, rgba(246,143,255,0.5102415966386555) 0%, rgba(255,0,245,0.6895133053221288) 50%, rgba(255,0,0,0.5354516806722689) 100%);
-    font-size: 35px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
   }
   
@@ -47,4 +46,17 @@
       text-align: center;
       color: white;
       font-size: 15px;
+      
     }
+
+  a {
+    text-decoration: none;
+  }
+
+  a:hover {
+    color: #fff;
+  }
+
+  h1 {
+    font-size: 5.7vw;
+  }
